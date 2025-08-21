@@ -260,5 +260,5 @@ url: https://github.com/Mahaveersai/Ecommerce
   - Now try running Project and Check if the changes are done or not.
 
    
-
+## Project developed by Mahaveersai
 
